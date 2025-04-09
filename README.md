@@ -1,6 +1,6 @@
-# Analyzing-Hotel-Booking-Cancellations-Data-Insights-for-Revenue-Optimization
-🏨 Hotel Booking Cancellation Analysis
-This project focuses on analyzing booking cancellation patterns for City Hotels and Resort Hotels using data from 2015 to 2017. The primary objective is to identify key factors driving cancellations and offer data-driven business recommendations to minimize cancellation rates and maximize revenue.
+# 🏨 Analyzing-Hotel-Booking-Cancellations-Data-Insights-for-Revenue-Optimization
+- This project focuses on analyzing booking cancellation patterns for City Hotels and Resort Hotels using data from 2015 to 2017. 
+- The primary objective is to identify key factors driving cancellations and offer data-driven business recommendations to minimize cancellation rates and maximize revenue.
 
 📌 Problem Statement
 City and Resort Hotels have experienced high cancellation rates, affecting occupancy and revenue. This project aims to:
